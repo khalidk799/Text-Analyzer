@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+Well This was my first React Application!
+
+Finally Dicided it to put it up on Github 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
